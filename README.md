@@ -16,21 +16,33 @@ Here is a working live demo :  https://github.com/Naminiges/octatix
 ## Site
 
 ### Landing Page
-
+Provide the Contacts Services feature, send message to email.
 <img src="images/landpage.jpg" class="img-responsive" alt="landpage">
 
+### Register/Login
+Using form validation with Jquery and PHP, forgot password, show/hide password, hashing password, autocomplete, and Level User.
+Ocactix also use one username, one account system.
+<img src="images/register.jpg" class="img-responsive" alt="landpage"><br>
+<img src="images/login.jpg" class="img-responsive" alt="landpage">
+
+### Logout
+<img src="images/logout.jpg" class="img-responsive" alt="landpage">
+
 ### Profile
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+Octatix user can update/delete their account and update password
+<img src="images/profile.jpg" class="img-responsive" alt="landpage">
 
 ### Available Tickets
+Aplly a Searching feature, Pagination, Order Moderation from Admin. Admin can change the order status like accept, pending, and deny, after the checking the payment receipt.
+User can't access admin dashboard, it will show the Denied Access/Error page.
 <img src="images/availabletix.jpg" class="img-responsive" alt="availabletix">
 
 ### Order History
+User can check they order status and invoice, with the print tickets page.
 <img src="images/orderhistory.jpg" class="img-responsive" alt="orderhistory">
 
 ## Responsive Page
-The WebApp is compatible with mobile phone size, and consistent improvements are being made.
-
+Octatix is compatible with mobile phone size, and consistent improvements are being made.
 <img src="images/respweb.jpg" class="img-responsive" alt="respweb">
 
 
