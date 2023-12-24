@@ -33,8 +33,7 @@ Octatix user can update/delete their account and update password
 <img src="images/profile.jpg" class="img-responsive" alt="landpage">
 
 ### Available Tickets
-Aplly a Searching feature, Pagination, Order Moderation from Admin. Admin can change the order status like accept, pending, and deny, after the checking the payment receipt.
-User can't access admin dashboard, it will show the Denied Access/Error page.
+Apply a Searching feature, Pagination, Order Moderation from Admin. User can check the ticket stocks and order deadline. Admin can change the order status like accept, pending, and deny, after the checking the payment receipt. User can't access admin dashboard, it will show the Denied Access/Error page.
 <img src="images/availabletix.jpg" class="img-responsive" alt="availabletix">
 
 ### Order History
