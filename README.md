@@ -77,7 +77,7 @@ If you'd like to request a new function, feel free to do so by messaging an issu
 
 <img src="images/nami-bg.png" class="img-responsive" alt="Work" style="width: 160px;"> | <img src="images/abyan-bg.png" class="img-responsive" alt="Work" style="width: 160px;"> | <img src="images/eja-bg.png" class="img-responsive" alt="Work" style="width: 160px;"> | <img src="images/zaki-bg.png" class="img-responsive" alt="Work" style="width: 160px;"> | <img src="images/ilyas-bg.png" class="img-responsive" alt="Work" style="width: 160px;">
 
-[Putera Nami Shiddieqy](https://github.com/naminiges) |[M Abyan Khairi](https://github.com/naminiges) |[Jaysha Anbiya Harris](https://github.com/naminiges) |[Aldi Zaki Aulia](https://github.com/naminiges) |[Ilyas Rafif](https://github.com/naminiges)
+[Putera Nami Shiddieqy](https://github.com/naminiges) |[M Abyan Khairi](https://github.com/naminiges) |[Jaysha Anbiya Harris](https://github.com/ejaanbiya) |[Aldi Zaki Aulia](https://github.com/naminiges) |[Ilyas Rafif](https://github.com/naminiges)
 
 USU © [Putera Nami Shiddieqy](https://github.com/naminiges)
 
