@@ -79,7 +79,5 @@ If you'd like to request a new function, feel free to do so by messaging an issu
 
 [Putera Nami Shiddieqy](https://github.com/naminiges) |[M Abyan Khairi](https://github.com/naminiges) |[Jaysha Anbiya Harris](https://github.com/naminiges) |[Aldi Zaki Aulia](https://github.com/naminiges) |[Ilyas Rafif](https://github.com/naminiges)
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
 USU © [Putera Nami Shiddieqy](https://github.com/naminiges)
 
