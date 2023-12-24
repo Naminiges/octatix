@@ -41,7 +41,8 @@ User can check they order status and invoice, with the print tickets page.
 <img src="images/orderhistory.jpg" class="img-responsive" alt="orderhistory">
 
 ## Responsive Page
-Octatix is compatible with mobile phone size, and consistent improvements are being made.<br>
+Octatix is compatible with mobile phone size, and consistent improvements are being made. </br>
+
 <img src="images/respweb.jpg" class="img-responsive" alt="respweb">
 
 
