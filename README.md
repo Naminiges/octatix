@@ -41,11 +41,11 @@ User can check they order status and invoice, with the print tickets page.
 <img src="images/orderhistory.jpg" class="img-responsive" alt="orderhistory">
 
 ## Responsive Page
-Octatix is compatible with mobile phone size, and consistent improvements are being made.
+Octatix is compatible with mobile phone size, and consistent improvements are being made.<br>
 <img src="images/respweb.jpg" class="img-responsive" alt="respweb">
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## [Usage](https://naminiges.github.io/octatix/) 
 
 ### Development
 Want to contribute? Great!
@@ -72,6 +72,7 @@ If you'd like to request a new function, feel free to do so by messaging an issu
 - [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
 - [PHP](https://www.w3schools.com/php/) - A Native Programming Language.
 - [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [DataTables](https://datatables.net/examples/index) - Extensive list of components and Bundled cdn plugins.
 
 ## Team
 
