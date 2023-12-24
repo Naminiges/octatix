@@ -10,7 +10,7 @@
 
 
 ## Overview
-Here is a working live demo :  https://github.com/Naminiges/octatix
+Here is a working code :  [https://github.com/Naminiges/octatix](https://github.com/Naminiges/octatix)
 
 
 ## Site
