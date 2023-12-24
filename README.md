@@ -10,28 +10,28 @@
 
 
 ## Overview
-Here is a working live demo :  
+Here is a working live demo :  https://github.com/Naminiges/octatix
 
 
 ## Site
 
 ### Landing Page
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+<img src="images/landpage.jpg" class="img-responsive" alt="landpage">
 
 ### Profile
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
 ### Available Tickets
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+<img src="images/availabletix.jpg" class="img-responsive" alt="availabletix">
 
 ### Order History
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+<img src="images/orderhistory.jpg" class="img-responsive" alt="orderhistory">
 
 ## Responsive Page
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+The WebApp is compatible with mobile phone size, and consistent improvements are being made.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+<img src="images/respweb.jpg" class="img-responsive" alt="respweb">
 
 
 ## [Usage](https://iharsh234.github.io/WebApp/) 
