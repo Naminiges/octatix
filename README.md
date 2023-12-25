@@ -61,9 +61,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly message an issue to octatix@gmail.com by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly message an issue to [octatix/issue](https://github.com/Naminiges/octatix/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by messaging an issue octatix@gmail.com. Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by sending an issue at [octatix/issue](https://github.com/Naminiges/octatix/issues). Please include sample queries and their corresponding results.
 
 
 ## Built with 
